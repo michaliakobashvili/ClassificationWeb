@@ -1,0 +1,16 @@
+.tweet-id {
+    font-size: 0.8em;
+    float: right;
+    font-style: italic;
+}
+
+.tweet-text {
+    font-size: 1.2em;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.tweet-div {
+    margin-bottom: 1em;
+    margin-right: 5px;
+}
